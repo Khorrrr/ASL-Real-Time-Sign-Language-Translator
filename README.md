@@ -1,8 +1,7 @@
 # ASL-ML: Real-Time American Sign Language Translator
 
-![ASL Alphabet Demo](demo/Demo-alphabet.mp4)
-
-![ASL Dynamic Word Demo](demo/Demo-word.mp4)
+![ASL Alphabet Demo](demo/Demo-alphabet.gif)
+![ASL Dynamic Word Demo](demo/Demo-word.gif)
 
 ## Overview
 
