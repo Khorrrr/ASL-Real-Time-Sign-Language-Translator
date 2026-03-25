@@ -1,0 +1,5 @@
+# This file keeps the models directory in git even though it's ignored
+# Place your trained models here:
+# - models/letter_model/ (static letter recognition)
+# - models/dynamic_model/ (dynamic word recognition)
+# - models/word_predictor/gpt2/ (HuggingFace GPT-2 model)
