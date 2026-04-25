@@ -118,6 +118,11 @@ ASL-ML/
 *   **Processing:** 30-frame sliding window sequences.
 *   **Normalization:** Translation and scale-invariant preprocessing to ensure user-agnostic performance.
 
+## Contributors
+
+* @khodorrhajj
+* @giokhadra
+
 ## License
 
 This project is licensed under the MIT License.
